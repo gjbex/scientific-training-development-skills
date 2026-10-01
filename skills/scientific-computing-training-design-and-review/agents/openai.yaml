@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Computing Training Design and Review"
+  short_description: "Design durable, concept-led scientific training"
+  default_prompt: "Use $scientific-computing-training-design-and-review to review this course for durable conceptual learning, meaningful exercises, realism, and participant value."

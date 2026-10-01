@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jupyter Training Notebook Editing"
+  short_description: "Edit training notebooks with collapsible sections"
+  default_prompt: "Use $jupyter-notebook-editing to edit this training notebook while preserving a clean, collapsible section structure."

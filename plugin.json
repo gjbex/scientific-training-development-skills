@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scientific-training-development-skills",
+  "version": "0.1.0",
+  "description": "Design, review, and edit scientific-computing training material with reusable agent skills.",
+  "author": {
+    "name": "Geert Jan Bex"
+  },
+  "repository": "https://github.com/gjbex/scientific-training-development-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "scientific-computing",
+    "training",
+    "jupyter",
+    "course-design"
+  ]
+}

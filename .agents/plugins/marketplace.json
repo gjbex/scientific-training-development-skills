@@ -1,0 +1,20 @@
+{
+  "name": "scientific-training-development-skills",
+  "interface": {
+    "displayName": "Scientific Training Development Skills"
+  },
+  "plugins": [
+    {
+      "name": "scientific-training-development-skills",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
